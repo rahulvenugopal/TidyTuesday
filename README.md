@@ -5,3 +5,7 @@
 #### ⚔️ Avatar: The Latest Airbender and The Office by IMDb is the base inspiration for this piece of work. Code is also from the above two GitHub repos
 
 #### I was looking for a neat visualisation for sleep stages (measured in percentages)
+
+#### Final visualisation
+
+! [Sleep percentages](https://github.com/rahulvenugopal/TidyTuesday/blob/master/images/final_plot.tiff)

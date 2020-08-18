@@ -8,4 +8,6 @@
 
 ### I was looking for a neat visualisation for sleep stages (measured in percentages)
 
-### The output ![](E:\New folder\TidyTuesday\images\final_plot.tiff)
+### The output
+
+![](E:\New folder\TidyTuesday\images\12.png)

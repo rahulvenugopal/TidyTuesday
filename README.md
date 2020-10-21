@@ -11,4 +11,6 @@
 ![Sleep percentages](https://github.com/rahulvenugopal/TidyTuesday/blob/master/images/sleep_architecture/final_plot.png)
 
 ---
-🦖
+🦖 [Datasaurus Dozen] (https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-10-13/readme.md)by [Alberto Cairo](http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html)
+Many a times we look at descriptive statistics of data and move on to analysis
+*Seeing* data is important and at times boxplots can lie! Violin plots can show is actual data distribution

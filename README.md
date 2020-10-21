@@ -15,6 +15,6 @@
 
 Many a times we look at descriptive statistics of data and move on to analysis
 
-*Seeing* data is important and at times boxplots can lie! Violin plots can show is actual data distribution
+**Seeing** data is important and at times boxplots can lie! Violin plots can show is actual data distribution
 
 ![Visualisation](https://github.com/rahulvenugopal/TidyTuesday/blob/master/images/dinosaurus/datasaurus.png)

@@ -8,4 +8,4 @@
 
 #### Final visualisation
 
-![Sleep percentages](https://github.com/rahulvenugopal/TidyTuesday/blob/master/images/sleep_avatar.gif)
+![Sleep percentages](https://github.com/rahulvenugopal/TidyTuesday/blob/master/images/final_plot.tiff)

@@ -15,5 +15,6 @@ I was looking for a neat visualisation for sleep stages (measured in percentages
 #### Many a times we look at descriptive statistics of data and move on to analysis
 **Seeing** data is important and at times boxplots can lie!
 Violin plots can show its actual data distribution
+Black line in left pane is the slope line
 
 ![Visualisation](https://github.com/rahulvenugopal/TidyTuesday/blob/master/images/dinosaurus/datasaurus.png)
